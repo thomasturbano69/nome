@@ -20,7 +20,7 @@ const perguntas = [
 },
 
 {
-    enunciado: "Qual ghrg",
+    enunciado: "bvhjhgvjv",
     alternativas: [
         {
 
